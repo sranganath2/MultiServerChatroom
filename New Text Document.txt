@@ -1,0 +1,9 @@
+Starting in order of 
+
+folder1, folder2, folder3
+
+When folder3 is started up,
+
+folder1 (4524) requests chunk 3 from (2 OR 3) - prob from  2
+folder2 (4503)requests chunk 1 from (1 OR 3) - prob 1
+folder3 (4524)requests chunk 2 from (1 OR 2) - prob 1
